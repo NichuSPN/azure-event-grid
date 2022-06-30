@@ -1,0 +1,16 @@
+{
+  "name": "event-grid",
+  "version": "1.0.0",
+  "description": "Event Grid Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nishaanth S P",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/eventgrid": "^4.9.0",
+    "@azure/identity": "^2.0.5",
+    "@azure/service-bus": "^7.5.1"
+  }
+}
